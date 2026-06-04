@@ -255,3 +255,7 @@ footer p{
     padding: 20px;
   }
 }
+#mouse{
+    width: 50px;
+    position: absolute;
+}
