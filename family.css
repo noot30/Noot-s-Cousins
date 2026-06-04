@@ -111,3 +111,8 @@ body{
   font-weight: bold;
   text-align: center;
 }
+
+#mouse{
+    width: 50px;
+    position: absolute;
+}
